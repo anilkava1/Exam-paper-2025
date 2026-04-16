@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://69ddbbc00d78d0c57cbc042d--board-exam-paper.netlify.app/sitemap.xml
